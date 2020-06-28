@@ -1,0 +1,5 @@
+export default {
+  SET_USER_IMAGE: 'SET_USER_IMAGE',
+  SET_DATES: " SET_DATES",
+  SET_TEMPS: "SET_TEMPS"
+};
