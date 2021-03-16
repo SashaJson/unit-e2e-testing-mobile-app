@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@react-navigation/native": "^5.0.9",
-    "axios": "^0.19.2",
+    "axios": ">=0.21.1",
     "jest-circus": "^26.1.0",
     "link": "^0.1.5",
     "react": "16.9.0",
